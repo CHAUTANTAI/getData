@@ -1,0 +1,29 @@
+.ty-gia-ngoai-te {
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: azure;
+}
+
+.ty-gia-ngoai-te,
+tr,
+td {
+    padding: 2px;
+
+    border: 1px solid;
+}
+
+.header {
+    border: 2px solid;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.heading {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
