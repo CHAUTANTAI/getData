@@ -23,11 +23,16 @@ Truy cập localhost/phpmyadmin để tạo sẵn một Database rỗng để c�
 
 ## Config
 
-Vào file env.php sửa đổi giá trị của các biến tương ứng với máy local
+Vào file env.php sửa đổi giá trị của các biến tương ứng với máy local:
+
 $SERVERNAME : Tên server Xampp là localhost.
+
 $DATABASE : Tên DATABASE đã được tạo.
+
 $USERNAME   : Tên người dùng của DATABASE trên máy.
+
 $PASSWORD : Mật khẩu nếu có, không có để mặc định là null.
+
 $CHARSET : Bảng mã không cần thay đổi.
 
 ## How it works
