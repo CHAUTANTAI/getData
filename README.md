@@ -44,7 +44,7 @@ Việc kết nối Database được thực hiện trong file connectDB.php, dù
 
 apiController.php file là nơi xử lý nguồn dữ liệu lấy được từ website để tổ chức lại, hiển thị lên view và lưu trữ xuống Database.
 
-Nguồn dữ liệu lấy từ API của vietcombank: 
+Nguồn dữ liệu lấy từ API của vietcombank: https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx
 
 Trang tỷ giá của vietcombank:https://www.vietcombank.com.vn/KHCN/Cong-cu-tien-ich/Ty-gia?devicechannel=default
 ## Demo
