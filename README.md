@@ -44,6 +44,8 @@ Việc kết nối Database được thực hiện trong file connectDB.php, dù
 
 apiController.php file là nơi xử lý nguồn dữ liệu lấy được từ website để tổ chức lại, hiển thị lên view và lưu trữ xuống Database.
 
+Nguồn dữ liệu lấy từ API của vietcombank: 
+
 ## Demo
 
 ![App Screenshot](https://scontent.fsgn8-3.fna.fbcdn.net/v/t1.15752-9/379523084_664251722353670_5501653592672683550_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YXXtEmECH0gAX90dAa4&_nc_ht=scontent.fsgn8-3.fna&oh=03_AdR7QZorCvJqR83vX-AAjXRaV25RoNZ9WofUR7yIipqRcg&oe=6533DD89)
